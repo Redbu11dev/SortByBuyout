@@ -1,4 +1,4 @@
-local version = "1.0.12"
+local version = "1.0.0"
 
 --local frame = CreateFrame("Frame")
 --frame:SetFrameStrata("LOW")
