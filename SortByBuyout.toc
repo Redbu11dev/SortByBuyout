@@ -1,0 +1,9 @@
+## Interface: 11200
+## Version: 1.0.0
+## Author: Redbu11
+## Title: SortByBuyout
+## Notes: SortByBuyout addon
+## DefaultState:  enabled
+
+SortByBuyout.lua
+SortByBuyout.xml
